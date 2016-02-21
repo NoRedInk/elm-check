@@ -15,7 +15,7 @@ migrating from local to cloud-based.
 @docs Investigator, investigator
 
 # Basic Investigator Generators
-@docs void, bool, order, random, int, rangeInt, float, percentage, char, upperCaseChar, lowerCaseChar, ascii, unicode, string, maybe, result, list, array, tuple, tuple3, tuple4, tuple5, func, func2, func3, func4, func5, keepIf, dropIf
+@docs void, bool, order, random, int, rangeInt, float, rangeFloat, percentage, char, upperCaseChar, lowerCaseChar, ascii, unicode, string, maybe, result, list, array, tuple, tuple3, tuple4, tuple5, func, func2, func3, func4, func5, keepIf, dropIf
 
 -}
 import Array  exposing (Array)
