@@ -111,6 +111,14 @@ float =
       investigator (Random.float -50 50) Shrink.float
 
 
+{-| Investigator float constructor. Generates random floats between a given `min`
+and a given `max` value.
+-}
+rangeFloat : Float -> Float -> Investigator Float
+rangeFloat min max =
+  investigator (Random.float min max) Shrink.float
+
+
 {-| Investigator percentage. Generates random floats between 0.0 and 1.0 and the `float`
 shrinker from elm-shrink. Useful in conjunction with `tuple` to facilitate
 things like generating an array and then selecting one of its elements at random.
