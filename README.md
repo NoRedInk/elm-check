@@ -1,3 +1,5 @@
+**0.17 users please see [elm-community/elm-check](https://github.com/elm-community/elm-check/).** This fork is no longer maintained.
+
 # Property Based Testing in Elm with elm-check
 
 Traditional unit-testing consists in asserting that certain inputs yield certain outputs. Property-based testing makes
