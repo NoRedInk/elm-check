@@ -1,4 +1,4 @@
-**0.17 users please see [elm-community/elm-check](https://github.com/elm-community/elm-check/).** This fork is no longer maintained.
+**0.17 and later users please see [elm-community/elm-check](https://github.com/elm-community/elm-check/).** This fork is no longer maintained.
 
 # Property Based Testing in Elm with elm-check
 
